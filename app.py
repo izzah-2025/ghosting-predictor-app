@@ -64,4 +64,4 @@ if st.button("🔮 Predict My Fate", use_container_width=True):
 
 # --- 5. THE ACADEMIC DISCLAIMER ---
 st.divider()
-st.caption("Disclaimer: This tool was developed for educational purposes. To maximize predictive accuracy, the underlying AI evaluates statistical patterns including socioeconomic demographics (Income Bracket). This algorithmic bias may not reflect fair, human-centric communication standards. Always prioritize healthy digital boundaries.")
+st.caption("Disclaimer: This tool was developed for educational purposes. The AI’s predictions rely on historical datasets that contain inherent algorithmic biases, and should be viewed purely as a technical demonstration rather than actual communication advice.")
