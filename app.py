@@ -24,7 +24,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     profile_pics = st.slider("📸 Profile Pictures", min_value=0, max_value=10, value=3)
-    messages_sent = st.slider("💬 Messages Sent Before Reply (Double Texting)", min_value=0, max_value=50, value=5)
+    messages_sent = st.slider("💬 Messages Sent Without Reply (Double Texting)", min_value=0, max_value=50, value=5)
 
 with col2:
     swipe_ratio = st.slider("👉 Swipe Right Ratio (%)", min_value=0, max_value=100, value=50)
