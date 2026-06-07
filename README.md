@@ -1,5 +1,5 @@
 # ghosting-predictor-app
-# Left on Read: Ghosting Predictor 👻
+## Left on Read: Ghosting Predictor 👻
 
 ### Project Overview
 The "Ghosting Predictor" is a machine learning web application designed to analyze user behavior on dating platforms and calculate the mathematical probability of a user being "ghosted" (left on read). 
