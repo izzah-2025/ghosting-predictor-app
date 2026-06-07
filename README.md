@@ -21,9 +21,4 @@ The application processes four key behavioral inputs through the machine learnin
 3. **Double Texting (Messages Sent Without Reply):** The core indicator of communication breakdown.
 4. **Income Bracket:** Categorical data reflecting socioeconomic status.
 
-### 🚀 How to Run Locally
-If you wish to run this application on your local machine, follow these steps:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/izzah-2025/ghosting-predictor-app.git
