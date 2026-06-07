@@ -1,9 +1,6 @@
 # ghosting-predictor-app
 # Left on Read: Ghosting Predictor 👻
 
-### Live Application
-**[Click here to test the Streamlit Web App](https://tinyurl.com/2vmj8sv3)**
-
 ### Project Overview
 The "Ghosting Predictor" is a machine learning web application designed to analyze user behavior on dating platforms and calculate the mathematical probability of a user being "ghosted" (left on read). 
 
