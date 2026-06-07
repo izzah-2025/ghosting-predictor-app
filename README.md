@@ -26,4 +26,4 @@ If you wish to run this application on your local machine, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone https://github.com/izzah-2025/ghosting-predictor-app.git
